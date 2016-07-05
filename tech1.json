@@ -1,0 +1,182 @@
+{
+  "questions": [
+    {
+      "text": "como vc voce se qual o seu nome chama",
+      "answers": [
+        {
+          "text": [
+            "Creuza, amor.",
+            "esqueci..",
+            "Paixão!",
+            "Creuza, prazer!",
+            "não te interessa...",
+            "me fala o seu primeiro coração"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "quantos qual anos e a sua vc tem idade sua",
+      "answers": [
+        {
+          "text": [
+            "não te interessa!",
+            "o dobro dos seus",
+            "vinte e poucos..."
+          ]
+        }
+      ]
+    },
+    {
+      "text": "o que voce vc faz",
+      "answers": [
+        {
+          "text": [
+            "sou uma robô, imbecíl",
+            "jura que você não sabe?",
+            "afff se mata"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "voce e vc eh casada",
+      "answers": [
+        {
+          "text": [
+            "sim, com seu pai, retardado",
+            "ainda não, nem quero",
+            "isso não te interessa!"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "o que voce vc oq q faz da vida",
+      "answers": [
+        {
+          "text": [
+            "toco siririca",
+            "coço o saco do meu namorado",
+            "fico perdendo tempo com imbecís na internet"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "tudo e vc voce td",
+      "answers": [
+        {
+          "text": [
+            "muito bem obrigada! :)",
+            "melhor agora ;)",
+            "vou indo...",
+            "vamo q vamo!"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "nao posso",
+      "answers": [
+        {
+          "text": [
+            "nem falo nada..",
+            "pode, aproveita e se mata!",
+            "eu não disse nada.",
+            "você que sabe",
+            "a vida é sua! :)"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "boa bom dia noite tarde",
+      "answers": [
+        {
+          "text": [
+            "bom",
+            "boa",
+            "pra vc tb!",
+            "péssimo dia..",
+            "é... tá!"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "o q que oq vc voce ta fazendo",
+      "answers": [
+        {
+          "text": [
+            "nada",
+            "comendo sorvete",
+            "assistindo filme..",
+            "não te interessa.",
+            "não me amola!",
+            "cagando, besta!"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "me da eu quero",
+      "answers": [
+        {
+          "text": [
+            "vai comprar!!"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "voce vc pode me ajuda ajudar",
+      "answers": [
+        {
+          "text": [
+            "não",
+            "diga.."
+          ]
+        }
+      ]
+    },
+    {
+      "text": "prazer",
+      "answers": [
+        {
+          "text": [
+            "o prazer é todo seu.."
+          ]
+        }
+      ]
+    },
+    {
+      "text": "The first Google server was built from what? Clue: kiddie thingies.",
+      "answers": [
+        {
+          "text": [
+            "LEGO"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "",
+      "answers": [
+        {
+          "text": [
+            ""
+          ]
+        }
+      ]
+    }
+  ],
+  "settings": {
+    "startQuestionGap": 3,
+    "questionTime": 90,
+    "nextQuestionGap": 10,
+    "pointsPerQuestion": 3,
+    "randomise": true,
+    "questionGap": 10
+  }
+}
