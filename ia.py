@@ -27,7 +27,6 @@ class iabot:
 		return dbase
 
 	def say(self):
-		print
 		words = []
 		dbase = self.learn()
 		put = uni(raw_input('> ').decode('utf-8')).upper()
